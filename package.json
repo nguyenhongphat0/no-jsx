@@ -1,6 +1,6 @@
 {
   "name": "@nguyenhongphat0/no-jsx",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A simple wrapper of React.createElement, for project that using react without jsx",
   "main": "index.js",
   "license": "MIT",
